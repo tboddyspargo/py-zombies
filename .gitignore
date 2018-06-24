@@ -1,0 +1,3 @@
+# Exclude dist files.
+dist/**
+.DS_STORE
